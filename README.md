@@ -1,3 +1,2 @@
-# python_tools
-乱七八糟的python工具
-具体看各个分支
+# hosts编辑器
+一个使用python编写的hosts编辑器
